@@ -40,7 +40,7 @@ The thresholds on sequence similarity are based on the thresholds  established b
 | Family  |    92-95     | Domain |     < 75     | 
 | Genus   |   95-98.6    |Phylum  |    75-83     |
 | Species |    95-100    | Order  |    83-86     |
-| -       |  | -         | Class  |    86-89     |
+| -       |   -         | Class  |    86-89     |
 | -       | -            | Family |    89-92     |
 
 
