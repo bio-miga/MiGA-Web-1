@@ -1,1 +1,1 @@
-# MiGA-Web
+# MiGA On-Line
