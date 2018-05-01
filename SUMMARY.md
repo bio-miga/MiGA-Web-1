@@ -1,5 +1,5 @@
 # Summary
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 * [Create Account](account.md)
 * [Analyzing Genomes](analyses.md)
 * [Understanding Results](results.md)
