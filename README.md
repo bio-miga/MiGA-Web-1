@@ -29,7 +29,7 @@ allow users to answer questions such as:
 
 1.  Has my genome or single-cell been found previously in another sample or habitat?
 2.  What is the closest relative and likely taxonomic affiliation of my query genome(s) against (named) species
-    represented by isolates or previously identified uncultivated taxa?
+  represented by isolates or previously identified uncultivated taxa?
 3.  What sequence and gene-content distinguish my query genome from previously described taxa?
 4.  Can I perform a high-resolution phylogenetic and gene-content analysis of my collection of (unpublished) genome
-    sequences, including draft genomes and SAGs?
+  sequences, including draft genomes and SAGs?
