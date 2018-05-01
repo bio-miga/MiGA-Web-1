@@ -18,7 +18,7 @@ The My taxa scan pdf for the high quality genome above shows little evidence of 
 
 My taxa results for a low quality genome would look more like this:
 
-![directory structure](./images/my_taxa_bad.png)
+![directory structure](./images/my_tax_bad.png)
 
 ## Gene Prediction & Assembly
 
