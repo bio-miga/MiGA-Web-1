@@ -1,4 +1,4 @@
-# Choosing the Type of Analyses
+# Types of Analyses
 
 In most cases, a MiGA analysis involves finding the closest match(es) between a genome and genomes in a reference database. The [MiGA home page](http://enve-omics.ce.gatech.edu:3000/) presents four large square boxes titled **NCBI Prok**, **RefSeq**, **Preproc**, and **Clades**. In addition there is a large horizontal box at the bottom of the page entitled **Environments**. With the exception of Preproc, these selections represent the types of analyses you can make with MiGA. The difference between NCBI Prooc, RefSeq and Environments has to do with what database is searched against. Clades is a special case in which genomes are compared among themselves. Preproc is for processing raw reads into contigs before submitting them to a MiGA analysis, or before binning them into popgenomes.
 
